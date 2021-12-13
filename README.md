@@ -1,5 +1,5 @@
 # DataStructure-Intro
-
+```
 *Declaring Array
 *Push
 *Pop
@@ -10,3 +10,4 @@
 *Modifying the object
 *Accessing the key value pair in object
 *Pushing the key value pair in the array of object
+```
